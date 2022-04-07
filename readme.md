@@ -2,7 +2,7 @@
 
 ## Program screenshot
 
-![]()
+![](https://github.com/cocmolla/rust-tcp-server-for-one-block/blob/main/program-screenshot.png?raw=true)
 
 ## Source code
 ```rust
@@ -71,4 +71,4 @@ fn main() -> io::Result<()> {
 }
 
 ```
-Also see in [lib.rs]()
+Also see in [main.rs](https://github.com/cocmolla/rust-tcp-server-for-one-block/blob/main/src/main.rs)
